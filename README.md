@@ -1,57 +1,64 @@
-<!-- Funky Banner -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vatsa%20Arvind%20Kala%20👨‍💻🚀&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<!-- Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Vatsa%20Arvind%20Kala%20🚀&fontSize=36&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
-# Hey there 👋, I'm Vatsa!
+# Hey, I'm Vatsa 👋
 
-🎓 Master’s @ Texas A&M — MIS (3.83/4.0)  
+🎓 Master’s @ **Texas A&M University** (MIS, GPA: 3.83/4.0)  
 💡 Exploring **AI/ML • Blockchain/Web3 • Data Engineering • Supply Chain Systems**  
-⚡ Building cool projects, publishing research, and chasing startup ideas  
+🛠 Building research-backed products and shipping cool projects
 
 ---
 
-## 🛠 Tech Arsenal
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+## 🔧 Tech I Play With
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,flask,postgres,mongodb,snowflake,aws,git,linux,tailwind&perline=8&theme=dark" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
-- 🌌 **[Palm Vein Biometrics](https://link.springer.com/chapter/10.1007/978-981-97-6352-8_32)**  
-  *Published in Springer* — Explainable AI system for biometric authentication  
+- 🔹 **Personal Portfolio** — Vite + React + TypeScript (Vercel)  
+  ➤ <a href="https://github.com/Vatsakala/Personal_Portfolio">Repo</a> *(private)* • <a href="https://vatsakala.vercel.app/">Live</a>
 
-- 🧠 **[Chronic Disease Prediction](#)**  
-  Random Forest model with 95.9% accuracy on 1M+ healthcare records  
+- 🔹 **Localization of Palm Veins** — Explainable AI biometric system (*Springer*)  
+  ➤ <a href="https://github.com/Vatsakala/Localization-of-Palm-Veins">Repo</a> • <a href="https://link.springer.com/chapter/10.1007/978-981-97-6352-8_32">Paper</a>
 
-- 💾 **[POS Database System](#)**  
-  High-performance ETL pipeline on AWS & MongoDB  
+- 🔹 **Emotion Detection Model** — Deep learning for real-time emotions  
+  ➤ <a href="https://github.com/Vatsakala/Emotion-detection-Model">Repo</a>
+
+- 🔹 **5G Resource Allocation (Metaverse)** — AI-driven optimization  
+  ➤ <a href="https://github.com/Vatsakala/optimized-5G-resource-allocation-for-metaverse-application">Repo</a>
+
+- 🔹 **Profile Config** — This special repo that powers my profile  
+  ➤ <a href="https://github.com/Vatsakala/Vatsakala">Repo</a>
 
 ---
 
 ## 📊 GitHub by the Numbers
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vatsakala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=77bdfb&icon_color=77bdfb" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Vatsakala&theme=tokyonight&hide_border=true&background=0D1117&ring=77bdfb&fire=ff7ae9&currStreakLabel=ff7ae9" />
+</p>
 
-![Vatsa’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vatsakala&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Vatsakala&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsakala&layout=compact&theme=tokyonight)
-
----
-
-## 🐍 Watch my contributions snake around!
-![snake gif](https://github.com/Vatsakala/Vatsakala/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsa-kala)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vatsakala.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vatsakala)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vatsakala.contact@gmail.com)  
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsakala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=77bdfb" />
+</p>
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer)
+## 🐍 Watch my contributions snake around
+<p align="center">
+  <img alt="snake" src="https://raw.githubusercontent.com/Vatsakala/Vatsakala/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Find me online
+<p align="center">
+  <a href="https://linkedin.com/in/vatsa-kala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://vatsakala.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:vatsakala.contact@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=110&section=footer)
