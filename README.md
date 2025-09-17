@@ -3,7 +3,7 @@
 
 # Hey, I'm Vatsa 👋
 
-🎓 Master’s of Science in Management Information Systems@ **Texas A&M University** (MIS, GPA: 3.83/4.0)  
+🎓 Master’s of Science in Management Information Systems @ **Texas A&M University** (MIS, GPA: 3.83/4.0)  
 💡 Exploring **AI/ML • Blockchain/Web3 • Data Engineering • Supply Chain Systems**  
 🛠 Building research-backed products and shipping cool projects
 
