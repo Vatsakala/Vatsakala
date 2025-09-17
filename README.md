@@ -73,4 +73,4 @@
 ---
 
 <!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=260&width=1000&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=250&width=1000&section=footer)
