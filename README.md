@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=300&width=1000&section=header&text=Vatsa%20Arvind%20Kala&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=150&width=1000&section=header&text=Vatsa%20Arvind%20Kala&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff)
 
 # Hey, I'm Vatsa
 
@@ -58,4 +58,4 @@ Turning research into **real-world products & startups**.
 ---
 
 <!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=260&width=1000&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=150&width=1000&section=footer)
