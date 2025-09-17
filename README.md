@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=150&width=1000&section=header&text=Vatsa%20Arvind%20Kala&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=300&width=1000&section=header&text=Vatsa%20Arvind%20Kala&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff)
 
 # Hey, I'm Vatsa 👋
 
@@ -30,6 +30,9 @@
 - 🔹 **[5G Resource Allocation for Metaverse](https://github.com/Vatsakala/optimized-5G-resource-allocation-for-metaverse-application)**  
   AI-driven optimization of 5G resources  
 
+- 🔹 **[Profile Config](https://github.com/Vatsakala/Vatsakala)**  
+  Special repo powering this GitHub profile 🎨  
+
 ---
 
 ## 📊 GitHub by the Numbers
@@ -49,7 +52,11 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/Vatsakala/Vatsakala/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vatsakala/Vatsakala/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vatsakala/Vatsakala/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vatsakala/Vatsakala/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 ---
@@ -70,4 +77,4 @@
 ---
 
 <!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=250&width=1000&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=260&width=1000&section=footer)
