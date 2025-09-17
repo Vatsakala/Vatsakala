@@ -30,9 +30,6 @@
 - 🔹 **[5G Resource Allocation for Metaverse](https://github.com/Vatsakala/optimized-5G-resource-allocation-for-metaverse-application)**  
   AI-driven optimization of 5G resources  
 
-- 🔹 **[Profile Config](https://github.com/Vatsakala/Vatsakala)**  
-  Special repo powering this GitHub profile 🎨  
-
 ---
 
 ## 📊 GitHub by the Numbers
