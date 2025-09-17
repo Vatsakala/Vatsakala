@@ -1,5 +1,5 @@
-<!-- Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=260&section=header&text=Vatsa%20Arvind%20Kala&fontSize=46&fontAlignY=38&animation=twinkling&fontColor=ffffff)
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=300&width=1000&section=header&text=Vatsa%20Arvind%20Kala&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff)
 
 # Hey, I'm Vatsa 👋
 
@@ -57,20 +57,20 @@
 
 ---
 
-## 🌐 Find me online
+## Find me online
 <p align="center">
   <a href="https://linkedin.com/in/vatsa-kala">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" height="42"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" width="180" height="50"/>
   </a>
   <a href="https://vatsakala.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2575fc&color=6a11cb" height="42"/>
+    <img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2575fc&color=6a11cb" width="180" height="50"/>
   </a>
   <a href="mailto:vatsakala.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF512F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DD2476&color=FF512F" height="42"/>
+    <img src="https://img.shields.io/badge/Email-FF512F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DD2476&color=FF512F" width="180" height="50"/>
   </a>
 </p>
 
 ---
 
 <!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=260&width=1000&section=footer)
