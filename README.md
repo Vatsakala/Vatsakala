@@ -22,8 +22,6 @@ Turning research into **real-world products & startups**.
 - **[Localization of Palm Veins](https://github.com/Vatsakala/Localization-of-Palm-Veins)** — Explainable AI biometric system (*Springer*)
 - **[Emotion Detection Model](https://github.com/Vatsakala/Emotion-detection-Model)** — Real-time facial emotion recognition
 - **[5G Resource Allocation for Metaverse](https://github.com/Vatsakala/optimized-5G-resource-allocation-for-metaverse-application)** — AI-driven optimization of 5G resources
-- **[Profile Config](https://github.com/Vatsakala/Vatsakala)** — This repo powering my profile
-
 ---
 
 ## GitHub by the Numbers
