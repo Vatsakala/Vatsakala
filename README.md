@@ -41,27 +41,17 @@ Turning research into **real-world products & startups**.
 
 ---
 
-## Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vatsakala/Vatsakala/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vatsakala/Vatsakala/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vatsakala/Vatsakala/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
-
----
-
 ## Find Me Online
+
 <p align="center">
   <a href="https://linkedin.com/in/vatsa-kala">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" width="180" height="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="45"/>
   </a>
   <a href="https://vatsakala.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2575fc&color=6a11cb" width="180" height="50"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" width="160" height="45"/>
   </a>
   <a href="mailto:vatsakala.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF512F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DD2476&color=FF512F" width="180" height="50"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="160" height="45"/>
   </a>
 </p>
 
