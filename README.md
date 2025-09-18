@@ -3,7 +3,7 @@
 
 # Hey, I'm Vatsa
 
-Master’s @ **Texas A&M University** (MIS, GPA: 3.83/4.0)  
+Master’s in Management Information Systems @ **Texas A&M University** (MIS, GPA: 3.83/4.0)  
 Exploring **AI/ML • Blockchain/Web3  • Data Engineering  • Data Analysis**  
 Turning research into **real-world products & startups**.
 
