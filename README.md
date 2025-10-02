@@ -28,4 +28,38 @@ Turning research into **real-world products & startups**.
 ## GitHub by the Numbers
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vatsakala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=77bdfb&icon_color=77bdfb" height="180" />
-  <img src="https:/
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsakala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=77bdfb" height="180"/>
+</p>
+
+---
+
+## GitHub Achievements & Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vatsakala&theme=discord&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@vatsakala">
+    <img src="https://holopin.me/vatsakala?v=1" alt="@vatsakala's Holopin board" />
+  </a>
+</p>
+
+---
+
+## Find Me Online
+<p align="center">
+  <a href="https://linkedin.com/in/vatsa-kala">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="45"/>
+  </a>
+  <a href="https://vatsakala.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" width="160" height="45"/>
+  </a>
+  <a href="mailto:vatsakala.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="160" height="45"/>
+  </a>
+</p>
+
+---
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=150&width=1000&section=footer)
