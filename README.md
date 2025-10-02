@@ -22,6 +22,7 @@ Turning research into **real-world products & startups**.
 - **[Localization of Palm Veins](https://github.com/Vatsakala/Localization-of-Palm-Veins)** — Explainable AI biometric system (*Springer*)
 - **[Emotion Detection Model](https://github.com/Vatsakala/Emotion-detection-Model)** — Real-time facial emotion recognition
 - **[5G Resource Allocation for Metaverse](https://github.com/Vatsakala/optimized-5G-resource-allocation-for-metaverse-application)** — AI-driven optimization of 5G resources
+
 ---
 
 ## GitHub by the Numbers
@@ -39,8 +40,16 @@ Turning research into **real-world products & startups**.
 
 ---
 
-## Find Me Online
+## Holopin Badges
+<p align="center">
+  <a href="https://holopin.io/@vatsakala">
+    <img src="https://holopin.me/vatsakala" alt="@vatsakala's Holopin board" />
+  </a>
+</p>
 
+---
+
+## Find Me Online
 <p align="center">
   <a href="https://linkedin.com/in/vatsa-kala">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="45"/>
