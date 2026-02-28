@@ -29,7 +29,7 @@ Turning research into **real-world products & startups**.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vatsakala&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vatsakala&layout=compact&theme=radical" height="180" />
