@@ -1,65 +1,21 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=150&width=1000&section=header&text=Vatsa%20Arvind%20Kala&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff)
+# 💫 About Me:
+🔭 I’m currently working on data projects that combine analytics, engineering, and a bit of applied ML to turn messy data into reliable insights.<br>👯 I’m looking to collaborate on data engineering, analytics dashboards, ETL pipelines, and practical ML tools that ship to production.<br>🤝 I’m looking for help with best practices around dbt/Airflow, data quality testing, and designing scalable data models.<br>🌱 I’m currently learning Snowflake and AWS optimization, orchestration patterns, and MLOps basics for deploying data products.<br>💬 Ask me about SQL and Python, AWS + Snowflake migrations, building analytics APIs, performance tuning, and explainable ML (SHAP).<br>⚡ Fun fact: I love performance wins, speeding up a data workflow feels as satisfying as solving a puzzle.
 
-# Hey, I'm Vatsa
 
-Master’s in Management Information Systems @ **Texas A&M University** (GPA: 3.83/4.0)  
-Exploring **AI/ML •  Data Science • Data Engineering  • Data Analysis • Software Engineering**  
-Turning research into **real-world products & startups**.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vatsa-kala/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vatsakala.contact@gmail.com) 
 
----
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat&logo=couchbase&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vatsakala&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vatsakala&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsakala&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Tech I Work With
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,flask,postgresql,mongodb,aws,git,linux,tailwind&theme=dark" />
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="48" height="48" style="border-radius:12px;background:#0D1117;padding:8px;margin-left:6px" />
-</p>
-
----
-
-## Featured Projects
-- **[Personal Portfolio](https://github.com/Vatsakala/Personal_Portfolio)** — Vite + React + TypeScript → [Live](https://vatsakala.vercel.app/)
-- **[RegDoc: AI-Powered Document Classifier](https://regdoc.streamlit.app)** — Multi-modal AI pipeline that classifies regulatory documents by sensitivity. → [Live](https://regdoc.streamlit.app)
-- **[Localization of Palm Veins](https://github.com/Vatsakala/Localization-of-Palm-Veins)** — Explainable AI biometric system (*Springer*)
-- **[Emotion Detection Model](https://github.com/Vatsakala/Emotion-detection-Model)** — Real-time facial emotion recognition
-- **[5G Resource Allocation for Metaverse](https://github.com/Vatsakala/optimized-5G-resource-allocation-for-metaverse-application)** — AI-driven optimization of 5G resources
-- **[Mai Shan Yun Analytics Dashboard](https://github.com/Vatsakala/Mai_Shun_Yun_Dashboard)** —Predictive analytics dashboard for restaurant demand forecasting.
-- **[Custom MCP Neighbourhood Server](https://github.com/Vatsakala/Custom_MCP_Neighbourhood)** — Model Context Protocol server  for real-time neighborhood analytics.
-- **[Case Closed Agent](https://github.com/Vatsakala/CaseClosed)** — Autonomous decision-making agent with modular heuristics and containerized deployment.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vatsakala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Vatsakala&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vatsakala&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vatsakala&layout=compact&theme=radical" height="180" />
-</div>
-
----
-
-## GitHub Achievements & Badges
-<p align="center">
-  <a href="https://holopin.io/@vatsakala">
-    <img src="https://holopin.me/vatsakala?v=1" alt="@vatsakala's Holopin board" />
-  </a>
-</p>
-
----
-
-## Find Me Online
-<p align="center">
-  <a href="https://linkedin.com/in/vatsa-kala">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="45"/>
-  </a>
-  <a href="https://vatsakala.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" width="160" height="45"/>
-  </a>
-  <a href="mailto:vatsakala.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="160" height="45"/>
-  </a>
-</p>
-
----
-
-<!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=150&width=1000&section=footer)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
