@@ -11,7 +11,7 @@ Turning research into **real-world products & startups**.
 
 ## Tech I Work With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python, SQL,cpp,js,ts,react,nodejs,flask,postgresql,mongodb,aws,git,linux,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,flask,postgresql,mongodb,aws,git,linux,tailwind&theme=dark" />
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="48" height="48" style="border-radius:12px;background:#0D1117;padding:8px;margin-left:6px" />
 </p>
 
