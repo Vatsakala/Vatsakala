@@ -34,11 +34,23 @@ Turning research into **real-world products & startups**.
 </div>
 
 ---
-
 ## GitHub Achievements & Badges
+
 <p align="center">
   <a href="https://holopin.io/@vatsakala">
-    <img src="https://holopin.me/vatsakala?v=1" alt="@vatsakala's Holopin board" />
+    <img
+      src="https://holopin.me/vatsakala?v=1"
+      alt="Vatsa's Holopin board"
+      height="180"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/vk20/">
+    <img
+      src="https://leetcode-badge-showcase.vercel.app/api?username=vk20&animated=true&theme=dark"
+      alt="vk20 LeetCode Badges"
+      height="180"
+    />
   </a>
 </p>
 
