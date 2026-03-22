@@ -17,7 +17,7 @@ Turning research into **real-world products & startups**.
 
 ## Featured Projects
 - **[Personal Portfolio](https://github.com/Vatsakala/Personal_Portfolio)** — Vite + React + TypeScript → [Live](https://vatsakala.vercel.app/)
-- **[RegDoc: AI-Powered Document Classifier](https://regdoc.streamlit.app)** — Multi-modal AI pipeline that classifies regulatory documents by sensitivity. → [Live](https://regdoc.streamlit.app)
+- **[RegDoc: AI-Powered Document Classifier](https://github.com/Vatsakala/Regdoc-classifier)** — Multi-modal AI pipeline that classifies regulatory documents by sensitivity. → [Live](https://regdoc.streamlit.app)
 - **[Localization of Palm Veins](https://github.com/Vatsakala/Localization-of-Palm-Veins)** — Explainable AI biometric system (*Springer*)
 - **[Emotion Detection Model](https://github.com/Vatsakala/Emotion-detection-Model)** — Real-time facial emotion recognition
 - **[5G Resource Allocation for Metaverse](https://github.com/Vatsakala/optimized-5G-resource-allocation-for-metaverse-application)** — AI-driven optimization of 5G resources
