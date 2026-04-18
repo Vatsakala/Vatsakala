@@ -11,7 +11,7 @@ Turning research into **real-world products & startups**.
 
 ## Tech I Work With
 <p align="center" style="display:flex;justify-content:center;align-items:center;gap:10px;flex-wrap:wrap;">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,cpp,java,javascript,typescript,react,nodejs,expressjs,flask,sqlalchemy,postgresql,mysql,mongodb,aws,ec2,fargate,s3,rds,redshift,snowflake,spark,hadoop,databricks,pytorch,tableau,pbi,docker,kubernetes,git,github,linux,jira,postman,tailwindcss&theme=dark&perline=14" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,cpp,javascript,typescript,react,nodejs,expressjs,flask,sqlalchemy,postgresql,mysql,mongodb,aws,ec2,fargate,s3,rds,redshift,snowflake,spark,hadoop,databricks,pytorch,tableau,pbi,docker,kubernetes,git,github,linux,jira,postman,tailwindcss&theme=dark&perline=14" />
 
 ---
 
